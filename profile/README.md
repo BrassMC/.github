@@ -6,3 +6,6 @@ https://github.com/BrassMC/BrassLoader
 
 API:
 https://github.com/BrassMC/BrassAPI
+
+Bradle:
+https://github.com/BrassMC/Bradle
